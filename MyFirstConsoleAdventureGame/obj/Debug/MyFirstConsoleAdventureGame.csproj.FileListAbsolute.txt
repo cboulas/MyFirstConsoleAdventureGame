@@ -1,0 +1,6 @@
+D:\WorkSpace\VisualStudio\Git\MyFirstConsoleAdventureGame\MyFirstConsoleAdventureGame\bin\Debug\MyFirstConsoleAdventureGame.exe.config
+D:\WorkSpace\VisualStudio\Git\MyFirstConsoleAdventureGame\MyFirstConsoleAdventureGame\bin\Debug\MyFirstConsoleAdventureGame.exe
+D:\WorkSpace\VisualStudio\Git\MyFirstConsoleAdventureGame\MyFirstConsoleAdventureGame\bin\Debug\MyFirstConsoleAdventureGame.pdb
+D:\WorkSpace\VisualStudio\Git\MyFirstConsoleAdventureGame\MyFirstConsoleAdventureGame\obj\Debug\MyFirstConsoleAdventureGame.csprojResolveAssemblyReference.cache
+D:\WorkSpace\VisualStudio\Git\MyFirstConsoleAdventureGame\MyFirstConsoleAdventureGame\obj\Debug\MyFirstConsoleAdventureGame.exe
+D:\WorkSpace\VisualStudio\Git\MyFirstConsoleAdventureGame\MyFirstConsoleAdventureGame\obj\Debug\MyFirstConsoleAdventureGame.pdb
