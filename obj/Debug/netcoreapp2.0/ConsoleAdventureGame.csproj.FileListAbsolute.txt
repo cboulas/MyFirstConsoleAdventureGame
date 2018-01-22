@@ -1,0 +1,10 @@
+C:\Programming\ConsoleAdventureGame\bin\Debug\netcoreapp2.0\ConsoleAdventureGame.deps.json
+C:\Programming\ConsoleAdventureGame\bin\Debug\netcoreapp2.0\ConsoleAdventureGame.runtimeconfig.json
+C:\Programming\ConsoleAdventureGame\bin\Debug\netcoreapp2.0\ConsoleAdventureGame.runtimeconfig.dev.json
+C:\Programming\ConsoleAdventureGame\bin\Debug\netcoreapp2.0\ConsoleAdventureGame.dll
+C:\Programming\ConsoleAdventureGame\bin\Debug\netcoreapp2.0\ConsoleAdventureGame.pdb
+C:\Programming\ConsoleAdventureGame\obj\Debug\netcoreapp2.0\ConsoleAdventureGame.csproj.CoreCompileInputs.cache
+C:\Programming\ConsoleAdventureGame\obj\Debug\netcoreapp2.0\ConsoleAdventureGame.AssemblyInfoInputs.cache
+C:\Programming\ConsoleAdventureGame\obj\Debug\netcoreapp2.0\ConsoleAdventureGame.AssemblyInfo.cs
+C:\Programming\ConsoleAdventureGame\obj\Debug\netcoreapp2.0\ConsoleAdventureGame.dll
+C:\Programming\ConsoleAdventureGame\obj\Debug\netcoreapp2.0\ConsoleAdventureGame.pdb
