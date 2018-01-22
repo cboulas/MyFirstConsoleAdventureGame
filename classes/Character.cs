@@ -3,6 +3,7 @@ namespace ConsoleAdventureGame
 {
     class Character
     {
+        System.Random random = new System.Random();
         protected string _name;
         public string name
         {
@@ -16,13 +17,34 @@ namespace ConsoleAdventureGame
             set { _hitPoints = value; }
         }
 
-        protected string _weapon;
-        public string weapon
+        protected Weapon _weapon;
+        public Weapon weapon
         {
             get { return _weapon; }
             set { _weapon = value; }
         }
 
+        protected int _minDamage;
+        public int minDamage
+        {
+            get { return _minDamage;}
+            set { _minDamage = value;}
+        }
+
+        protected int _maxDamage;
+        public int maxDamage
+        {
+            get { return _maxDamage;}
+            set { _maxDamage = value;}
+        }
+        
+        
+
+
+        public int AttackDamage()
+        {
+            return random.Next(_weapon.minDamage, _weapon.maxDamage);
+        }
         public void PrintInfo()
         {
             System.Console.WriteLine($"Character name: {_name}");

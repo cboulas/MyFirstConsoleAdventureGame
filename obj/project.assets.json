@@ -670,6 +670,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\Programming\\ConsoleAdventureGame\\ConsoleAdventureGame.csproj",
       "projectName": "ConsoleAdventureGame",
